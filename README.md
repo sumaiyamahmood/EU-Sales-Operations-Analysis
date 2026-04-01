@@ -21,8 +21,30 @@ This project focuses on the consolidation and analysis of daily sales performanc
 * `/Report`: The `.pbix` Power BI project file.
 * `/Screenshots`: High-resolution captures of the final dashboard for quick viewing.
 
-## 📊 Dashboard Preview
-![Dashboard Preview](Insert_Link_To_Your_Uploaded_Screenshot_Here.png)
+## 📊 Dashboard Previews
+<details>
+  <summary><b>Click here to view all 4 Dashboard Pages</b></summary>
+  <br>
+
+  ### Page 1: Sales Summary
+  *High-level overview of total sales by country.*
+  ![Summary](Screenshots/sales_summary.png)
+
+  
+  ### Page 2: Product Summary
+  *Analysis of top-performing categories and inventory turnover.*
+  ![Analysis](Screenshots/product_summary.png)
+  
+  ### Page 3: Sales Overview (Small Multiples)
+  *Daily sales trajectories across 10 markets using shared-axis comparisons.*
+  ![Trends](Screenshots/sales_overview.png)
+  
+  
+  ### Page 4: Data Validation & Operations
+  *Backend view of the data model and quality checks ensuring 100% accuracy.*
+  ![Validation](Screenshots/Data_Validation.png)
+
+</details>
 
 ---
 **Author:** Sumaiya Mahmood Khan  
